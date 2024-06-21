@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ARIZAL
+ * @author IQBAL
  */
 public class kalkulator extends javax.swing.JFrame {
 
